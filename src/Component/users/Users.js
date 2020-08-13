@@ -177,8 +177,8 @@ const styles = StyleSheet.create({
     marginBottom: 10,
   },
   imageToch: {
-    right: 10,
-    marginTop: 5,
+    right: 5,
+    marginTop: 8,
     height: 30,
     width: 30,
     position: 'absolute',
